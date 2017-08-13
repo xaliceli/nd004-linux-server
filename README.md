@@ -5,7 +5,9 @@ This is a project for Udacity's Full-Stack Web Development Nanodegree.
 ## Connecting
 
 **Public IP Address:** 34.232.49.36
+
 **SSH Port:** 2200
+
 **URL:** [http://34.232.49.36](http://34.232.49.36)
 
 ## Installed Packages
